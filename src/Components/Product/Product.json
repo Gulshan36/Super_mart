@@ -1,0 +1,137 @@
+[
+       {
+      "name": "Mango",
+      "image": "https://th.bing.com/th?id=OIP.IeEpz5AQVfBTBJmm3QPbbgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.7&pid=3.1&rm=2",
+      "description": "A tropical stone fruit with sweet, juicy flesh and a distinctive flavor.",
+      "price": 2.99
+    },
+    
+    {
+      "name": "Guava",
+      "image": "https://th.bing.com/th?id=OIP.Hw_LVP9mmGr0i-RCc9v7_wHaGC&w=276&h=225&c=8&rs=1&qlt=90&o=6&dpr=1.7&pid=3.1&rm=2",
+      "description": "A tropical fruit with green skin, sweet and juicy flesh, and many small seeds.",
+      "price": 1.79
+    
+    },
+    
+    {
+      "name": "Carrot",
+      "price": 1.5,
+      "description": "Fresh and crunchy carrots",
+      "category": "Vegetable",
+      "image":"https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2Fycm90fGVufDB8fDB8fHww"
+    },
+    {
+      "name": "Papaya",
+      "price": 2.0,
+      "description": "Juicy and sweet papayas",
+      "category": "Fruit",
+      "image":"https://images.unsplash.com/photo-1617112848923-cc2234396a8d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGFwYXlhfGVufDB8fDB8fHww"
+    },
+    {
+      "name": "Grapes",
+      "price": 3.0,
+      "description": "Sweet and delicious grapes",
+      "category": "Fruit",
+      "image":"https://images.unsplash.com/photo-1625499940894-8796928bf9c4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Z3JhcGVzfGVufDB8fDB8fHww"
+    },
+    
+        {
+          "name": "Rice",
+          "description": "Premium quality long-grain rice, perfect for everyday meals.",
+          "price": 50,
+          "quantity": "1 kg",
+          "category": "Grains",
+          "image": "https://i.pinimg.com/736x/b7/51/33/b75133bdb14d47c012b77333cd140398.jpg"
+        },
+        {
+          "name": "Sugar",
+          "description": "Pure granulated sugar, ideal for sweetening beverages and desserts.",
+          "price": 40,
+          "quantity": "1 kg",
+          "category": "Staples",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm9lC4JrooVDgepvleraoJcCZvaURVePbRRvYjfTie8w&s"
+        },
+        {
+          "name": "Dal",
+          "description": "High-quality split lentils, rich in protein, perfect for traditional dishes.",
+          "price": 80,
+          "quantity": "1 kg",
+          "category": "Pulses",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmUI4bJao_NLxZBN2sSPWee1M7icm3-gaIQSrDf7PQeQ&s"
+        },
+        {
+          "name": "Salt",
+          "description": "Pure, fine salt for seasoning and cooking.",
+          "price": 20,
+          "quantity": "1 kg",
+          "category": "Staples",
+          "image": "https://m.media-amazon.com/images/I/61-zRoFrfqL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+          "name": "Tea Leaves",
+          "description": "Fresh, aromatic tea leaves, perfect for brewing a revitalizing cup of tea.",
+          "price": 100,
+          "quantity": "250 grams",
+          "category": "Beverages",
+          "image": "https://m.media-amazon.com/images/I/51A-x+xmzfL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+          "name": "Cooking Oil",
+          "description": "High-quality cooking oil, ideal for frying and cooking various dishes.",
+          "price": 120,
+          "quantity": "1 liter",
+          "category": "Cooking Essentials",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRuNOtJtPXN5YMrs2z-CP4WxF9_WkQcGfmpfD8-5JjA&s"
+        },
+        {
+          "name": "Toothpaste",
+          "description": "Fluoride toothpaste, helps maintain oral hygiene and fresh breath.",
+          "price": 30,
+          "quantity": "100 grams",
+          "category": "Personal Care",
+          "image": "https://m.media-amazon.com/images/I/61D9oEdgssL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+          "name": "Soap",
+          "description": "Gentle cleansing soap, suitable for daily use on the skin.",
+          "price": 25,
+          "quantity": "75 grams",
+          "category": "Personal Care",
+          "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/soap/p/m/d/-original-imagtk4w5evvx43e.jpeg?q=90&crop=false"
+        },
+        {
+          "name": "GoodDay",
+          "description": "Delicious buttery biscuits, perfect for snacking anytime.",
+          "price": 20,
+          "quantity": "100g",
+          "category": "Biscuits",
+          "image": "https://m.media-amazon.com/images/I/61X6qiHlCOL.jpg"
+        },
+        {
+          "name": "Spices",
+          "description": "Aromatic blend of ground spices, adds flavor and depth to your dishes.",
+          "price": 100,
+          "quantity": "250 grams",
+          "category": "Spices",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQav89DqiOxItwLMbe_u6e054EI16wXQyPPGttK2dMIZA&s"
+        },
+        {
+          "name": "Brush",
+          "description": "Soft-bristled toothbrush, designed for effective cleaning and gum care.",
+          "price": 30,
+          "quantity": "1 pcs",
+          "category": "Brush",
+          "image": "https://m.media-amazon.com/images/I/71MG5JcqW+L._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+          "name": "Detergent",
+          "description": "Powerful laundry detergent, removes tough stains and keeps clothes fresh.",
+          "price": 70,
+          "quantity": "1 kg",
+          "category": "Detergent",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJnkwfCwTQs8cUxDtwWItC_dtIxOsOCDMlVA7FSzoKMg&s"
+        }
+      
+      ]
+      
